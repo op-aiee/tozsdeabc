@@ -1,8 +1,10 @@
 ---
-title: Mekkora hozamot szeretnék elérni és ezért cserébe milyen kockázatot vagyok hajlandó vállalni?
+title: 'Mekkora hozamot szeretnék elérni és ezért cserébe milyen kockázatot vagyok hajlandó vállalni?'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
+
 Amikor megtakarításunk sorsáról döntünk, tulajdonképpen a vállalt kockázatok típusáról és mértékéről döntünk. Ha pénzünket nem fektetjük be, hanem otthon tartjuk, akkor is vállalunk kockázatot, mivel azt ellophatják, vagy az infláció miatt csökkenhet az értéke. Egy bankbetétnél gyakorlatilag a banknak nyújtunk rövid távú hitelt, így egy vállalti- vagy államkötvényhez hasonlóan hitelkockázatot – az adós nemfizetésének kockázatát – futjuk. A részvénybefektetések esetén a legnagyobb rizikó abból fakad, hogy az árfolyamokat és az osztalék jövőbeni értékét nem tudjuk előrejelezni. Emellett azzal is számolnunk kell, hogy a nem likvid (pl. nincs folyamatos kereskedés, azaz olyan partner, akinek rövid időn belül versenyképes áron el lehet adni) eszközökbe fektetett pénzzel korlátozottan, akár jelentős tőkevesztés árán rendelkezhetünk.
 
 A pénzügyi piacok a hozamprémium elvén működnek, vagyis magasabb hozamokat csak magasabb kockázat vállalása mellett érhetünk el, ezért sem lehet a befektetéseket csupán a várható hozamuk alapján összehasonlítani.
