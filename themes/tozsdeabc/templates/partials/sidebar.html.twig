@@ -35,6 +35,7 @@
 {% endmacro %}
 
 <div class="scrollbar-inner">
+{% include 'partials/simplesearch_searchbox.html.twig' %}
     <div class="highlightable">
         {% if theme_config.top_level_version %}
             {% for slug, ver in pages.children %}
