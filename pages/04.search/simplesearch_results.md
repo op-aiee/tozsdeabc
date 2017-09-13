@@ -1,5 +1,4 @@
 ---
 title: Keresés
-published: true
 ---
 
