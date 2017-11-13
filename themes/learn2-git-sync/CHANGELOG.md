@@ -1,3 +1,17 @@
+# v0.9.8
+## 10/23/2017
+
+1. [](#improved)
+    * Added Highlight plugin as a dependency
+1. [](#bugfix)
+    * Removed unneeded theme default for custom icon in Git Sync link
+
+# v0.9.7
+## 10/22/2017
+
+1. [](#new)
+    * Further streamlined Git Sync setup step by automating 'Edit in Git' tree URL calculation
+
 # v0.9.6
 ## 07/12/2017
 
