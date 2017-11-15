@@ -1,7 +1,8 @@
 ---
-title: A befektetési szolgáltató szerepe
+title: 'A befektetési szolgáltató szerepe'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Ahhoz, hogy a tőzsdén fektessünk be, mindenekelőtt szükségünk van egy befektetési szolgáltatóra (bankra vagy brókercégre). Ők azok az intézmények, akik értékpapírszámlát vezetnek az ügyfelek részére, és végrehajtják a tőlük származó megbízásokat, mivel ők rendelkeznek kereskedési joggal a tőzsdéken. Emellett szerepük azért is kulcsfontosságú az értékpapírpiacon, mert egyrészt leveszik az értékpapírokkal kapcsolatos teendők jelentős részét (pl. az osztalék felvétele) a befektetők válláról, másrészt – mivel lényegesen több és erőforrás és szaktudás áll a rendelkezésükre – hasznos, sokszor felbecsülhetetlen értékű döntéstámogató tanácsokkal látják el ügyfeleiket.

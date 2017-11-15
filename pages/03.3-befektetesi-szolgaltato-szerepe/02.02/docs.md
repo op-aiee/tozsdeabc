@@ -1,8 +1,10 @@
 ---
-title: Befektetési szolgáltatások
+title: 'Befektetési szolgáltatások'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
+
 A befektetési szolgáltatók által végezhető tevékenységeket Magyarországon törvény szabályozza (2007. évi CXXXVIII. – Bszt.), amely keretein belül alapvetően az alábbi szolgáltatásokat nyújthatják az ügyfelek részére:
 
 + számlavezetés 
