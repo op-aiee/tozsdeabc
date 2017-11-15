@@ -1,7 +1,8 @@
 ---
-title: A befektetési szolgáltató szerepe
+title: 'A befektetési szolgáltató szerepe'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 

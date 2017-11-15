@@ -1,5 +1,5 @@
 ---
-title: Miért tőzsdézzünk?
+title: 'Miért tőzsdézzünk?'
 taxonomy:
     category: docs
 child_type: docs

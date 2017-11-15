@@ -1,5 +1,5 @@
 ---
-title: Hogyan érdemes befektetni? 
+title: 'Hogyan érdemes befektetni?'
 taxonomy:
     category: docs
 child_type: docs
