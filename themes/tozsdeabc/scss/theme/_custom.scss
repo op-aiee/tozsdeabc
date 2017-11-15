@@ -230,3 +230,9 @@
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
+
+// Import Bootstrap components
+
+@import "modules/bootstrap/_bootstrap.scss";
+
+

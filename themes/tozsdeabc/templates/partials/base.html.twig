@@ -45,34 +45,7 @@
     {% endblock %}
 </head>
 <body class="searchbox-hidden {{ page.header.body_classes }}" data-url="{{ page.route }}">
-<nav class="navbar navbar-default topnav">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    
-    <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
-    
-      <ul class="nav navbar-nav navbar-left">
-        <li><a class="" href="https://tozsdeabc.bet.hu"><i class="tiny material-icons left" title="Tőzsde ABC">book</i><span class="navbar-text hidden-sm hidden-md">Tőzsde ABC</span></a></li>
-        <li><a class="kviznav" href="/quiz/18"><i class="tiny material-icons left" title="Tőzsde ABC">question_answer</i><span class="navbar-text hidden-sm hidden-md">Kvíz</span></a></li>
-        <li><a title="Kereskedés" data-original-title="Kereskedés" href="https://tozsdejatek.aiee.hu/index.php?action=listview&amp;module=frontend"><i class="tiny material-icons left" title="Kereskedés">trending_up</i><span class="navbar-text hidden-sm hidden-md">Kereskedés </span></a></li>
-        <li><a title="Megbízások" data-original-title="Megbízások" href="https://tozsdejatek.aiee.hu/index.php?action=showorders&amp;module=frontend"><i class="tiny material-icons left" title="Tranzakciók">insert_chart</i><span class="navbar-text hidden-sm hidden-md">Megbízások </span></a></li>
-        <li class="{$on_myportfolio}"><a title="Portfólió" data-original-title="Portfólió" href="https://tozsdejatek.aiee.hu/index.php?action=myportfolio&amp;module=frontend"><i class="tiny material-icons left" title="Portfólió">work</i><span class="navbar-text hidden-sm hidden-md">Portfólió </span></a></li>
-        <li><a title="Eredmények" data-original-title="Eredmények" href="https://tozsdejatek.aiee.hu/index.php?action=toplist&amp;module=frontend"><i class="tiny material-icons left" title="Eredmények">swap_vert</i><span class="navbar-text hidden-sm hidden-md">Eredmények </span></a></li>
-        <li><a title="Heti nyertesek" href="https://tozsdejatek.aiee.hu/index.php?action=hetinyertes&amp;module=frontend"><i class="tiny material-icons left" title="Heti nyertesek">redeem</i><span class="navbar-text hidden-sm hidden-md">Heti nyertesek </span></a>
-        </li>
-      </ul>
-      </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+{% include 'partials/navbar.html.twig' %}
 </nav>
     {% block sidebar %}
     <nav id="sidebar">
