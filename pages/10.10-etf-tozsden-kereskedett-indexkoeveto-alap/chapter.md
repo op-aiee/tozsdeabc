@@ -1,4 +1,4 @@
 ---
-title: '10. -ETF – Tőzsdén kereskedett Indexkövető alap '
+title: 'ETF – Tőzsdén kereskedett Indexkövető alap '
 ---
 
