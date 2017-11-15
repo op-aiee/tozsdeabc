@@ -1,5 +1,8 @@
 ---
 title: 'Opciós ügyletek'
+taxonomy:
+    category:
+        - docs
 ---
 
 Az opciók hatékony eszközt jelentenek a kockázatukat fedezni kívánóknak és változatos befektetési stratégiák kidolgozását teszik lehetővé. Az opciók segítségével a befektetők a saját kockázatvállalási hajlandóságuknak megfelelő portfoliót alakíthatnak ki. A tőzsdei szabványosítás teszi igazán kereskedhetővé az opciókat, biztosítva azt, hogy csak korlátozott – de még mindig nagyszámú – befektetési eszköz legyen a piacon, és a befektetőknek ne kelljen egyedi szerződéseket kötniük egymással.

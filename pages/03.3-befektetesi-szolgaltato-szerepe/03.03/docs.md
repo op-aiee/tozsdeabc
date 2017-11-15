@@ -1,5 +1,8 @@
 ---
 title: 'Hogyan válasszunk szolgáltatót?'
+taxonomy:
+    category:
+        - docs
 ---
 
 Az alaptevékenységen túl a befektetési szolgáltatók (befektetési szolgáltatást is nyújtó bankok és brókercégek) között jelentős különbségek lehetnek, érdemes ezért több, alább felsorolt szempont alapján figyelmesen összehasonlítani őket.

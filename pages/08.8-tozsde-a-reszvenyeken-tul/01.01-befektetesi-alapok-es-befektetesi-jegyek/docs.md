@@ -1,5 +1,8 @@
 ---
 title: 'Befektetési alapok és befektetési jegyek'
+taxonomy:
+    category:
+        - docs
 ---
 
 A befektetési alap egy olyan eszköz, amely azt teszi lehetővé, hogy az egyes befektetők, egy "közös vagyontömegbe" fektessék be megtakarításaikat úgy, hogy befektetési jegyeket vásárolnak. Ha egy befektető szeretné befektetni megtakarított pénzét, de nem ismeri alaposan a tőkepiacot, és nem tudja eldönteni, hogy melyik részvényt vagy kötvényt vásárolja meg, akkor jó megoldást jelentenek a befektetési alapok. A befektetési alapok a "sok kicsi sokra megy" elv alapján működnek: összegyűjtik több befektető pénzét, majd az így összegyűlt vagyont az alapokat kezelő befektetési szakemberek különböző befektetési formákban helyezik el.

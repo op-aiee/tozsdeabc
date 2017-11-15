@@ -1,5 +1,8 @@
 ---
 title: Árupiac
+taxonomy:
+    category:
+        - docs
 ---
 
 Az Értéktőzsde és Árutőzsde összeolvadása óta a gabonatermékek hazai tőzsdei kereskedése a Budapesti Értéktőzsdén zajlik, az azonnali piaci gabona mellett határidős kontraktusok és opciók is elérhetőek a különböző gabonákra. A mezőgazdasági termékek a legrégibb és legalapvetőbb tőzsdei termékek. A BÉT árupiaca lehetőséget teremt a mezőgazdasági termények és kapcsolódó termékek szabályozott keretek között zajló, hatékony és biztonságos kereskedelmének.

@@ -1,5 +1,8 @@
 ---
 title: Fogalomtár
+taxonomy:
+    category:
+        - docs
 ---
 
 ##### Ajánlati könyv

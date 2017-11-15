@@ -1,5 +1,9 @@
 ---
 title: 'Tőzsde a részvényeken túl '
+taxonomy:
+    category:
+        - docs
+child_type: docs
 ---
 
 ### 8. fejezet

@@ -1,5 +1,8 @@
 ---
 title: 'A tőzsdei tranzakciók elszámolása'
+taxonomy:
+    category:
+        - docs
 ---
 
 A Budapesti Értéktőzsde rendszerében létrejött tranzakciót követően nem azonnal kerül a befektető birtokába, azaz a befektetési számlájára az adott részvény vagy termék, mivel az ügylet elszámolásának, a tényleges teljesítésnek átfutási ideje van. A tőzsdei ügylet létrejöttekor megkezdődik a részvények esetén két napos elszámolási ciklus, mely során az eladó és a vevő számlája között rögzítik az ügylethez kapcsolódó pénz és értékpapírmozgásokat.

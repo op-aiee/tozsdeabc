@@ -1,5 +1,8 @@
 ---
 title: 'Értékpapír ügyletkötések adózási kérdései'
+taxonomy:
+    category:
+        - docs
 ---
 
 A személyi jövedelemadóról szóló törvény a tőkejövedelmeket a külön adózó jövedelmek közé sorolja, így azok nem képezik az összevont adó alapját képező személyi jövedelem részét. Származását és jellegét tekintve három alapvető jövedelemtípust különböztetnek meg a jogszabályok: ezek a kamatjövedelem, az osztalékjövedelem és az árfolyamnyereséget, ez utóbbi pedig minősülhet ellenőrzött tőkepiaci ügyletből származó jövedelemnek. Ezek adózása 2016. január 1-jétől egységesen 15%-os adókulccsal történik. Ez alól kivételt jelent csak a speciális, adókedvezményt nyújtó befektetési lehetőségek képeznek kivételt.

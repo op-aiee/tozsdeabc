@@ -1,5 +1,8 @@
 ---
 title: 'A határidős piac'
+taxonomy:
+    category:
+        - docs
 ---
 
 A tőzsdei kereskedés egyik legizgalmasabb szegmensét a határidős, vagy másképpen futures piacokat eredetileg fedezeti, azaz kockázatcsökkentési céllal hozták létre. A fedezeti ügyletek célja, hogy általuk egy adott instrumentum távoli időpontra vonatkozó vételi/eladási árát rögzíthessék, kiszámíthatóbbá téve az adott befektetés hozamát, illetve az adott mögöttes termék árfolyamát. A határidős ügyletek során a felek megállapodnak azokban a paraméterekben, amelyekben az azonnali ügyletek esetében is, viszont a határidős ügyleteknél az adás-vétel tényleges időpontja - a lejárat - későbbre esik. A származtatott termékek segítségével a befektetők kockázattűrő képességük függvényében csökkenthetik, illetve növelhetik portfóliójuk kockázatát a nagyobb várható hozam reményében. A származékos termékek további fontos ismérve, hogy kis tőkebefektetéssel (a határidős ügylet létrejöttekor csak letétet kell elhelyezni, ezáltal a turbókhoz hasonlóan itt is tőkeáttétel keletkezik) hatalmas pozíciókat nyithatnak a befektetők köszönhetően annak, hogy a teljesítés időben jelentősen elválik az adásvétel időpontjától. Előfordulhat, hogy nyitott pozíciónk egy-két nap alatt többszörösét hozza a befektetésünknek, de ugyanennyi idő alatt – szemben a turbóval – különösen az áresésre játszó pozíciók esetén akár korlátlan veszteséget is el lehet szenvedni. A határidős ügyletek lehetőséget nyújtanak „mesterséges&quot; termékekkel (pl. index) való kereskedésre is.

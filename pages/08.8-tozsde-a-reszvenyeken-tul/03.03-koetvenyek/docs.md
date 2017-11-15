@@ -1,5 +1,8 @@
 ---
 title: Kötvények
+taxonomy:
+    category:
+        - docs
 ---
 
 A kötvény hitelviszonyt megtestesítő értékpapír, melynek kibocsátója (az adós) arra vállal kötelezettséget, hogy a kötvényben megjelölt pénzösszeget, továbbá ennek kamatát a kötvény mindenkori tulajdonosának vagy birtokosának (a hitelezőnek) a kötvényben megjelölt időben és módon megfizeti.

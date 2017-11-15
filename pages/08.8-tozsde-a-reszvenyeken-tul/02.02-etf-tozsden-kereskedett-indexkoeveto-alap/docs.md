@@ -1,5 +1,8 @@
 ---
 title: 'ETF – Tőzsdén kereskedett Indexkövető alap'
+taxonomy:
+    category:
+        - docs
 ---
 
 Az ETF (Exchange Traded Fund, vagyis Tőzsdén Kereskedett Indexkövető Alap) egy passzívan kezelt, vagyis a referencia index teljesítményét pontosan lekövető, tőzsdén kereskedhető befektetési alap, elsősorban részvényalap.

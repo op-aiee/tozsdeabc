@@ -1,5 +1,8 @@
 ---
 title: 'A tőkepiac biztonsága'
+taxonomy:
+    category:
+        - docs
 ---
 
 #### Törvényi keretek

@@ -1,5 +1,8 @@
 ---
 title: 'Strukturált termékek – certifikátok'
+taxonomy:
+    category:
+        - docs
 ---
 
 A certifikátok és warrantok (továbbiakban egységesen strukturált termékek) izgalmas és széleskörű befektetési lehetőségeket kínáló termékek a Budapesti Értéktőzsde palettáján. A strukturált termékeken keresztül a külföldi részvényindexektől az egzotikus árutermékekig és devizákig szinte bármilyen befektetési eszköz elérhető egyszerűen és olcsón. Jelentése „igazolás&quot; arról, hogy a strukturált termékek tulajdonosa jogosult a kibocsátó bank által létrehozott értékpapír által megtestesített követelésekre.
