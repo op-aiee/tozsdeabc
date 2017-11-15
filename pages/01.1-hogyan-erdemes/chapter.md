@@ -1,7 +1,8 @@
 ---
 title: 'Hogyan érdemes befektetni?'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
