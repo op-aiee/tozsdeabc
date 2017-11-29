@@ -236,3 +236,16 @@
 @import "modules/bootstrap/_bootstrap.scss";
 
 
+    #grav-logo-large {
+        max-width: 100%;
+        padding-left: 1.5rem;
+        height: 40px;
+        margin: 13px 0 12px;
+        @include breakpoint(tablet-plus) {
+            display: none !important;
+        }
+        @include breakpoint(large-desktop-plus) {
+            display: none !important;
+        }
+    }
+

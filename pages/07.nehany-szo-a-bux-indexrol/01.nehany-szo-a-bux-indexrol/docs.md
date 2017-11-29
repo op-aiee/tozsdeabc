@@ -1,5 +1,8 @@
 ---
 title: 'Néhány szó a BUX indexről'
+taxonomy:
+    category:
+        - docs
 ---
 
 A piaci általános áralakulás nyomon követésének legegyszerűbb módja a tőzsdei indexek figyelemmel kísérése. A BÉT hivatalos főindexe, a BUX a piac legjelentősebb részvényeinek átlagos árváltozását mutatja folyamatosan, minden kötés után automatikusan bekövetkező frissítésekkel.

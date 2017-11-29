@@ -6265,5 +6265,10 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+#grav-logo-large {
+  max-width: 100%;
+  padding-left: 1.5rem;
+  height: 40px;
+  margin: 13px 0 12px; }
 
 /*# sourceMappingURL=theme.css.map */

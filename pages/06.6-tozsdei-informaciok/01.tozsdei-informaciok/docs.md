@@ -1,5 +1,8 @@
 ---
 title: 'Tőzsdei információk'
+taxonomy:
+    category:
+        - docs
 ---
 
 A tőzsdei kereskedés egyik legfontosabb sajátossága a nyilvánosság. A befektetők folyamatosan nyomon követhetik az árak alakulását, a tőzsdén lévő vállalatokra vonatkozó híradásokat, ami alapja a piac működésébe vetett bizalomnak, a piac stabilitásának. Az elérhető információk köre a valós idejű kereskedési adatoktól az időszakos statisztikákon és idősorokon át a kibocsátói hírekig terjed, és minden olyan információt érint, amely a megalapozott befektetői döntések meghozatalához szükséges.
